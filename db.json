@@ -1,0 +1,88 @@
+{
+  "breeds": [
+    {
+      "breed": "Chihuahua",
+      "personality": "Graceful, charming, and sassy.",
+      "energy_level": "Though Chihuahuas like to run and play, they are mostly an indoor pet, and do well in apartments.",
+      "good_with_children": "Better with Older Children",
+      "good_with_other_dogs": "With Supervision",
+      "shedding": "Seasonal",
+      "grooming": "Occasional",
+      "trainability": "Independent",
+      "height": "6-9 inches",
+      "weight": "3-6 pounds",
+      "life_expectancy": "12-20 years",
+      "barking_level": "Barks When Necessary"
+    },
+    {
+      "breed": "Bulldog",
+      "personality": "Calm, courageous, and friendly; dignified but amusing.",
+      "energy_level": "Not Very Active; Bulldogs won't beg to be exercised, but they require regular walks and the occasional romp. in apartments.",
+      "good_with_children": "Yes",
+      "good_with_other_dogs": "Yes",
+      "shedding": "Seasonal",
+      "grooming": "Weekly",
+      "trainability": "Responds Well",
+      "height": "14-15 inches",
+      "weight": "50 pounds (male), 40 pounds (female)",
+      "life_expectancy": "8-10 years",
+      "barking_level": "Quiet"
+    },
+    {
+      "breed": "German Shepherd",
+      "personality": "Smart, confident, courageous, and steady; a true dog lover's dog",
+      "energy_level": "Very Active; These big guys were born to work; they require regular mental and physical exercise",
+      "good_with_children": "Yes",
+      "good_with_other_dogs": "With Supervision",
+      "shedding": "Frequent",
+      "grooming": "Occasional",
+      "trainability": "Eager To Please",
+      "height": "24-26 inches (male), 22-24 inches (female)",
+      "weight": "65-90 pounds (male), 50-70 pounds (female)",
+      "life_expectancy": "7-10 years",
+      "barking_level": "Barks When Necessary"
+    },
+    {
+      "breed": "Pug",
+      "personality": "Even-tempered, charming, mischievous and loving",
+      "energy_level": "Somewhat Active; Pugs are not exactly natural athletes, but they do have strong legs and endless curiosity—exercise both regularly",
+      "good_with_children": "Better with Supervision",
+      "good_with_other_dogs": "With Supervision",
+      "shedding": "Seasonal",
+      "grooming": "Occasional",
+      "trainability": "Responds Well",
+      "height": "10-13 inches",
+      "weight": "14-18 pounds",
+      "life_expectancy": "13-15 years",
+      "barking_level": "Barks When Necessary"
+    },
+    {
+      "breed": "Labrador Retriever",
+      "personality": "Friendly and outgoing, Labs play well with others",
+      "energy_level": "Very Active; Labs are high-spirited and not afraid to show it",
+      "good_with_children": "Yes",
+      "good_with_other_dogs": "With Supervision",
+      "shedding": "Seasonal",
+      "grooming": "Occasional",
+      "trainability": "Eager To Please",
+      "height": "22.5-24.5 inches (male), 21.5-23.5 inches (female)",
+      "weight": "65-80 pounds (male), 55-70 pounds (female)",
+      "life_expectancy": "10-12 years",
+      "barking_level": "Barks When Necessary"
+    },
+    {
+      "breed": "Beagle",
+      "personality": "Merry, friendly, and curious",
+      "energy_level": "Very Active; This quick, energetic and compact hound dog needs plenty of exercise",
+      "good_with_children": "Yes",
+      "good_with_other_dogs": "Yes",
+      "shedding": "Seasonal",
+      "grooming": "Weekly",
+      "trainability": "Responds Well",
+      "height": "13 inches & under, 13-15 inches",
+      "weight": "under 20 pounds (13 inches & under), 20-30 pounds (13-15 inches)",
+      "life_expectancy": "10-15 years",
+      "barking_level": "Barks When Necessary"
+    }
+  ]
+}
